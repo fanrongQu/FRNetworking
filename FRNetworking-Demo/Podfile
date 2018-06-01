@@ -1,0 +1,11 @@
+ source 'https://github.com/cocoapods/specs.git'
+ platform :ios, '8.0'
+ inhibit_all_warnings!
+ use_frameworks!
+
+# project 'FRNetworking-Demo.xcodeproj'
+
+target 'FRNetworking-Demo' do
+	pod 'AFNetworking'
+     pod 'YYCache'
+end

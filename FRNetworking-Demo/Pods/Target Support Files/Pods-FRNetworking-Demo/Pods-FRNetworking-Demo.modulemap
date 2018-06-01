@@ -1,0 +1,6 @@
+framework module Pods_FRNetworking_Demo {
+  umbrella header "Pods-FRNetworking-Demo-umbrella.h"
+
+  export *
+  module * { export * }
+}
