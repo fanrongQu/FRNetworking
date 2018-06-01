@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "FRNetworking"
-  s.version      = "1.0.0"
+  s.version      = "1.0.1"
   s.platform     = :ios, "7.0"
   s.ios.deployment_target = '7.0'
   s.summary      = "Secondary packaging library for AFN"
